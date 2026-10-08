@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/Events.html",
+    "items": [
+      "/event/BBVF/index.html",
+      "/event/CISON/index.html",
+      "/event/DRMC/index.html",
+      "/event/Elites/index.html",
+      "/event/Ijebu mi/index.html",
+      "/event/Regberegbe/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/assignment/index.html",
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

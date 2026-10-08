@@ -1,0 +1,18 @@
+---
+title: "Events"
+title-block-banner: false
+listing:
+  contents:
+    - "CISON/index.qmd"
+    - "BBVF/index.qmd"
+    - "DRMC/index.qmd"
+    - "Elites/index.qmd"
+    - "Ijebunimi/index.qmd"
+    - "Regberegbe/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---

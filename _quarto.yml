@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs
+  #resources:
+  #  - "_ext-files/*"
+  
+website:
+  title: "Egbe Bobaseye"
+  favicon: "images/bobaseye.jpeg"
+  search: 
+    location: navbar
+    type: textbox
+  page-footer:
+    center: |
+      [Contact Egbe Bobaseye](mailto:bobaseyeimota@gmail.com)
+    left: |
+      Made with [Quarto](https://quarto.org/)
+    right: |
+      [Github Code Repo](https://github.com/adept-data)
+    background: "#8b8878"
+    
+  navbar:
+    logo: /images/bobaseye.jpeg
+    background: "#8b8878"
+  
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Constitution
+        href: constitution/index.qmd
+      - text: Members
+        href: Members/index.qmd
+      - text: Events
+        href: event/index.qmd
+        
+    
+    right:
+      - icon: twitter
+        text: "X"
+        aria-label: "X"
+        href: https://x.com/aareakintunde
+      - icon: instagram
+        text: "Instagram"
+        aria-label: "Instagram"
+        href: https://instagram.com/
+      - icon: facebook
+        text: "Facebook"
+        aria-label: "Facebook"
+        href: https://facebook.com/
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme_dark_custom.scss]
+    css: styles.css
+
+editor: source
+

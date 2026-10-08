@@ -1,0 +1,11 @@
+---
+title: "Barry Black Votary Fan (BBVF)"
+author: "Aare Akintunde"
+data: "`r Sys.Date()`"
+format: html
+execute:
+  echo: true
+---
+
+
+

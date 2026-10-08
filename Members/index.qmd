@@ -1,0 +1,24 @@
+---
+title: "Members"
+title-block-banner: false
+listing:
+  contents:
+    - "ogunbowale/index.qmd"
+    - "yusuf/index.qmd"
+    - "abass/index.qmd"
+    - "ogbodo/index.qmd"
+    - "alimi/index.qmd"
+    - "oyebanjo/index.qmd"
+    - "odusanya/index.qmd"
+    - "oguntola/index.qmd"
+    - "oladega/index.qmd"
+    - "oladunni/index.qmd"
+    - "salisu/index.qmd"
+    - "sigbeku/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+---

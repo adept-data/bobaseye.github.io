@@ -1,0 +1,35 @@
+---
+title: "Egbe Bobaseye Okunrin (Asiwaju) Imota"
+image: images/bobaseye.jpeg
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: x
+      text: x
+      href: https://x.com
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com
+    - icon: envelope
+      text: Contact us
+      href: mailto:bobaseyeimota@gmail.com
+---
+
+**Egbe Bobaseye Okunrin (Asiwaju), Imota** is a traditional age-grade socio-cultural association rooted in the longstanding communal traditions of Ijebu land and other parts of Western Nigeria. Age-grade associations of this nature serve as important vehicles for promoting unity, preserving cultural values, encouraging social responsibility, and supporting the overall development of their communities.
+
+The association is made up of men within a defined age bracket, typically spanning about three years. Membership reflects not only age compatibility, but also maturity, social standing, financial responsibility, personal integrity, and commitment to the progress of the community.
+
+At the heart of Egbe Bobaseye Okunrin are the values of **integrity, dignity, unity, responsibility, discipline, and respect for tradition**. Its royal identity further reflects its strong connection to the traditional institution of Imota. The association enjoys the endorsement of **His Royal Majesty, Oba Mudashiru Ajibade Bakare Agoro, Olufoworesete II, the Ranodu of Imota**.
+
+Since 2024, **Egbe Bobaseye Okunrin (Asiwaju), Imota** has maintained an active and visible presence at the annual **Ayayo Day Celebration**, where the group has consistently distinguished itself through organisation, cultural display, unity of purpose, and meaningful participation in community activities.
+
+In recognition of leadership, experience, and community standing, the association appointed **Aremo Tajudeen Adekoya, the Aremo Oyemade and Chairman of Admos Hotels and Suites**, as its **Baba Egbe**.
+
+A notable tradition of the association is its **monthly rotational hosting system**, through which members take turns to host the group. This arrangement strengthens fellowship, deepens interpersonal bonds, and provides a regular platform for discussing issues affecting both the association and the wider Imota community.
+
+Today, **Egbe Bobaseye Okunrin stands at the centre of Imota’s heritage, identity, culture, and collective spirit**. Through its activities, leadership, and continued involvement in community life, the association has positioned itself as one of the notable socio-cultural groups contributing to the preservation of tradition and the advancement of Imota.
