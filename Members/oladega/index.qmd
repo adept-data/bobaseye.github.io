@@ -1,8 +1,32 @@
 ---
 title: "Oladega Musbau Lawrence"
-author: "Tunwase Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:oladega@gmail.com
 ---
 
+Tunwase Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![Oladega Musbau Lawrence](image/Musbau%20Ladega.jpg){fig-align="left"}
+
+Oladega M. Lawrence is an accomplished entrepreneur, project management professional, and real estate practitioner with extensive experience in business development, property investment, land documentation, and strategic partnerships.
+
+He is the Founder and Chief Executive Officer of Bauglobal Resources Ltd., a real estate company focused on land acquisition, property development, documentation, investment advisory, and innovative real estate solutions.

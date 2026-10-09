@@ -1,8 +1,30 @@
 ---
 title: "Badejo Adejuwon Ogbodo"
-author: "Asiwaju Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:juwonbadejo@gmail.com
 ---
 
+Ashiwaju Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![Badejo Adejuwon Ogbodo, B.Sc., MPA](image/Ashiwaju.jpg){fig-align="left"}
+
+Badejo Adejuwon Ogbodo is a political scientist and seasoned public service professional with over a decade of experience in tourism administration and public sector management. He joined the Lagos State Civil Service in 2010 and was deployed to the then Lagos State Ministry of Tourism and Intergovernmental Relations, now the Lagos State Ministry of Tourism, Arts and Culture. In 2011, he was appointed Personal Assistant to the then Honourable Commissioner for Tourism, Mr. Disun Holloway, where he contributed to the implementation of key initiatives that advanced the state's tourism agenda. In recognition of his dedication, professionalism, and outstanding service, he was promoted to the position of Chief Tourism Officer in 2025, becoming the first public officer from the Ikorodu Division to attain this designation in the Lagos State Public Service. His career reflects a strong commitment to promoting tourism, preserving cultural heritage, and advancing excellence in public administration.

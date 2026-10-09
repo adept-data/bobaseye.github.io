@@ -1,7 +1,38 @@
 ---
 title: "Ogunbowale Mobolaji Kolawole"
-author: "Giwa Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:mogunbowale@gmail.com
 ---
+
+The Giwa and Baamofin Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![Mobolaji K. Ogunbowale, MCArb, ACTI](image/BJ.jpg){fig-align="left"}
+
+Mobolaji Ogunbowale is a distinguished legal practitioner and a Barrister and Solicitor of the Supreme Court of Nigeria. He is the **Founder and Principal Partner of M.O. Legal**, a commercial and litigation law firm providing professional legal services across a broad range of practice areas.
+
+An indigene of Imota, Lagos State, Mr. Ogunbowale obtained his Bachelor of Laws (LL.B. Hons.) from Lagos State University, Ojo, Lagos State. He subsequently attended the Nigerian Law School, Abuja, and was called to the **Nigerian Bar in 2007**.
+
+He is a member of the **Nigerian Bar Association (NBA)** and the **Nigerian Institute of Chartered Arbitrators (NICArb)**, and is also an **Associate Member of the Chartered Institute of Taxation of Nigeria (CITN)**.
+
+Over the course of his legal career, Mr. Ogunbowale has developed considerable expertise in commercial and property litigation, debt recovery, corporate law, taxation law, labour and employment law, and arbitration.
+
+Through his professional practice, he has continued to demonstrate a strong commitment to legal excellence, integrity, effective advocacy, and the delivery of practical solutions to complex legal and commercial matters.

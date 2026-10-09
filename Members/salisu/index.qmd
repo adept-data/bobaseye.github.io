@@ -1,8 +1,30 @@
 ---
 title: "Salisu Olugbenga Gabriel"
-author: "Asoju Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:salisu@gmail.com
 ---
 
+Asoju Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![Olugbenga Gabriel Salisu – Regional Branch Manager, Heirs/UBA](image/Salisu.jpg){fig-align="left"}
+
+Olugbenga Gabriel Salisu is an accomplished financial services professional with over 20 years of experience in Nigeria's financial industry. He has built a strong reputation for strategic leadership, operational excellence, and driving business growth across leading insurance and banking institutions. As Regional Branch Manager at Heirs/UBA, he leads branch performance, retail expansion, agent development, and customer-focused service delivery, contributing significantly to the company's growth and market presence. Before joining Heirs/UBA, Olugbenga held senior roles at Leadway Assurance, AIICO Insurance Plc, Access Bank, and GTBank, where he successfully led sales strategies, managed high-performing teams, and expanded market reach across retail and corporate segments. Passionate about financial inclusion and customer empowerment, he is recognized for building high-performing teams, strengthening branch operations, and mentoring emerging professionals. His collaborative leadership style and commitment to excellence have earned him a reputation as a results-driven transformational leader.

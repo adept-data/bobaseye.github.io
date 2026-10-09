@@ -1,8 +1,30 @@
 ---
 title: "Bldr. Ayokanmi Oladunni"
-author: "Maiyegun Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:oladunni@gmail.com
 ---
 
+Maiyegun Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![Bldr. Ayokanmi Oladunni (MNIOB, MNISP)](image/Ayobami.jpg){fig-align="left"}
+
+A Registered Builder and Safety Professional with well over two decades experience in Building and Civil Engineering Construction. Holds an HND in Building Technology, a PGD in Quantity Surveying, and an MSc in Construction Management. Founder of Work Ethics Nigeria Limited, a leading indigenous construction firm renowned for quality delivery, and excellence in project execution. With core expertise in Construction Project mgt, Resource allocation, and On-site supervision Beyond construction, he is a committed community support leader and holds a traditional chieftaincy title of Bashorun in recognition of his service and contributions to community development. Bashorun Ayokanmi Oladunni is fulfilled and happily married

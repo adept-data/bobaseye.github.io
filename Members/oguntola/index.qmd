@@ -1,8 +1,30 @@
 ---
 title: "Chief Oguntola Abayomi"
-author: "Otunba Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:oguntola@gmail.com
 ---
 
+Otunba Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![OTUNBA ABAYOMI TAOVIC OGUNTOLA (Akindein of Imota)](image/Otunba.jpg){fig-align="left"}
+
+The managing director/ Chief Executive Officer of DETITAAB MULTIBIZ SERVICES LIMITED. A Realtor with a vast knowledge in properties development/ Estate management, consultant in freight Logistics and also a consultant in conflict management. This Establishment has been in existence over a decade and its well manager under my supervision. A well-rooted society service provider through an international charity organization known as Lions club international (LCI). An officer of the Law with the rank of Assistant Superintendent of Police (SPY). Happily married with Children.

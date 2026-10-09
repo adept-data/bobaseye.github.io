@@ -1,0 +1,7 @@
+---
+title: "Ayayo 2025"
+format: html
+execute:
+  echo: true
+---
+

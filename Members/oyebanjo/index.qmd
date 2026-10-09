@@ -1,8 +1,30 @@
 ---
 title: "Oyebanjo Salaudeen"
-author: "Bashorun Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:oyebanjo@gmail.com
 ---
 
+Bashorun Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![ESV. Oyebanjo Salaudeen Oluwatosin, M.Sc. (Urban Development), ANIVS, RSV, MNIM](image/Salawu.jpg){fig-align="left"}
+
+ESV. Oyebanjo Salaudeen Oluwatosin is a registered Estate Surveyor and Valuer, Licensed Auctioneer, and an accomplished real estate professional with expertise in property valuation, land administration, and urban development. A native of Imota in the Ikorodu area of Lagos State, he holds a Master's degree in Urban Development and is a member of several professional bodies, including the Nigerian Institution of Estate Surveyors and Valuers (NIESV) and the Nigerian Institute of Management (MNIM). Before joining the Lagos State Government in 2023 as a Senior Land Officer, he built a successful career in the private sector, providing consultancy services in estate surveying, valuation, and real estate practice. His professional experience spans property valuation, advisory services, and land management. Outside his professional responsibilities, ESV. Oyebanjo enjoys reading and participating in sporting activities. He is happily married and blessed with children.

@@ -1,12 +1,9 @@
 ---
 title: "Yusuf Akintunde Azeez"
-image: image/aare.jpeg
 about:
-  template: jolla
-  image-width: 20em
-  image-shape: round
+  template: solana
   links:
-    - icon: x
+    - icon: twitter
       text: x
       href: https://x.com/aareakintunde
     - icon: linkedin
@@ -29,57 +26,24 @@ about:
       href: mailto:akintunde2112@gmail.com
 ---
 
-## Agba-Akin & Otun-Giwa Egbe Bobaseye Okunrin (Asiwaju) Imota
+Agba-Akin & Otun-Giwa Egbe Bobaseye Okunrin (Asiwaju) Imota
 
-**Yusuf Akintunde Azeez (Aare)** is an accomplished Statistician, researcher, data analyst, regulatory professional and community leader with over two decades of combined experience in statistics, research, public administration, railway operations, pharmaceutical regulation and data-driven decision-making. His career reflects a strong commitment to the practical application of statistical science in solving complex institutional, regulatory and public-health challenges.
+![Agba-Akin Egbe](image/aare.jpeg){fig-align="left" width="1000"}
 
-He possesses extensive knowledge of statistical concepts, methodologies and models, with proven competence in **sampling, data validation, statistical modelling, research design, data management, trend analysis, predictive analytics and the application of computer-based statistical tools**. His professional strengths are complemented by excellent communication, presentation, organisational and leadership skills, as well as a strong commitment to process improvement and evidence-based decision-making.
+Agba-Akin is an accomplished Statistician, researcher, data analyst, regulatory professional and community leader with over two decades of experience spanning statistics, public administration, railway operations, pharmaceutical regulation and evidence-based decision-making.
 
-Yusuf Akintunde Azeez began his professional development at the **Nigerian Railway Traffic Training School, Enugu**, where he obtained a **Proficiency Certificate in Traffic and Commercial Operations of Railway Activities**. 
+He began his professional development at the Nigerian Railway Traffic Training School, Enugu, where he obtained a Proficiency Certificate in Traffic and Commercial Operations. He later earned a National Diploma in Mathematics and Statistics and a Higher National Diploma in Statistics with Distinction from Kwara State Polytechnic, Ilorin. He proceeded to Ahmadu Bello University, Zaria, for a Postgraduate Diploma in Statistics, and later obtained a B.Sc. in Applied Mathematics with First Class Honours from Bells University of Technology, Ota. He also holds a Master’s degree in Statistics, specialising in Biostatistics, with Distinction, and is currently pursuing a **Ph.D. in Statistics** at the same institution.
 
-He proceeded to **Kwara State Polytechnic, Ilorin**, where he obtained a **National Diploma in Mathematics and Statistics** and later a **Higher National Diploma in Statistics**, graduating with **Distinction**.
+Professionally, he has built a significant part of his career with the National Agency for Food and Drug Administration and Control (NAFDAC), where he currently serves as an Assistant Chief Statistical Officer in the Ports Inspection Directorate. His responsibilities include statistical analysis, regulatory intelligence, violation monitoring, surveillance, compliance assessment, risk profiling and preparation of periodic reports to support the interception of non-compliant regulated products and strengthen public-health protection.
 
-In furtherance of his academic development, he undertook postgraduate studies in Statistics at **Ahmadu Bello University, Zaria**, where he obtained a Postgraduate Diploma in Statistics. His determination to strengthen his academic credentials subsequently took him to **Bells University of Technology, Ota, Ogun State**, where he earned a **Bachelor of Science degree in Applied Mathematics with First Class Honours**.
+Before joining NAFDAC, he worked with the Nigerian Railway Corporation, where he rose to the position of Chief Station Master, gaining valuable experience in operations, logistics, administration and supervision. He also served at the Judicial Service Commission, Owerri, during his National Youth Service, where he contributed to statistical reporting and staff development activities.
 
-He later obtained a **Master's degree in Statistics, with specialisation in Biostatistics, from Bells University of Technology**, graduating with Distinction, and is currently pursuing a **Ph.D. in Statistics** at the same institution.
+Aare Akintunde is an active researcher with interests in biostatistics, public health, machine learning, predictive analytics, pharmaceutical regulation, counterfeit medicines, pharmacovigilance and vaccine hesitancy. He has authored and co-authored several scientific and academic publications on public-health and regulatory issues. Click [here](https://scholar.google.com/citations?user=6Q3wb9UAAAAJ&hl=en) to view his Google Scholar profile.\]
 
-His academic journey is particularly remarkable for its consistency and resilience. Rather than allowing the longstanding HND/B.Sc. dichotomy to limit his professional progression, he returned to the university system, obtained a First-Class bachelor's degree and subsequently advanced to postgraduate studies, a demonstration of discipline, determination and lifelong learning.
+He is a member of the Chartered Institute of Statisticians of Nigeria (CISON), serves as the South-West Coordinator of the International Association for Statistical Computing (IASC), and is the Public Relations Officer of CISON, Lagos State Chapter.
 
-Aare Akintunde has built a substantial part of his professional career with the **National Agency for Food and Drug Administration and Control (NAFDAC)**, where he has contributed to statistical analysis, research, regulatory intelligence, surveillance, compliance monitoring and risk management.
+Beyond his professional career, he is deeply involved in community and cultural leadership. He is a foundation member of Egbe Bobaseye Okunrin (Asiwaju), Imota, where he holds the title of Agba-Akin and serves as Otun-Giwa Egbe. He is also the Pioneer and current President of De Royal Ambassadors of Imota.
 
-He currently serves as an **Assistant Chief Statistical Officer** and performs violation-monitoring and intelligence-related responsibilities within the **Ports Inspection Directorate**, contributing to the Agency's efforts to strengthen regulatory surveillance and safeguard public health.
+His career reflects a strong blend of academic excellence, professional competence, research scholarship, leadership and community service. At the heart of his work is a firm belief that data should not merely describe events, but should provide intelligence for understanding problems, predicting risks and guiding better decisions.
 
-He contributes to the preparation of periodic violation and interception reports, monitors compliance with regulatory requirements, supports the harmonisation of operational reports across ports and outstations, and provides analytical recommendations aimed at improving the interception of non-compliant regulated products.
-
-His experience at NAFDAC has enabled him to combine traditional statistical practice with **regulatory intelligence, public-health surveillance, risk assessment and data-driven enforcement strategies**.
-
-
-Before joining NAFDAC, Aare Akintunde worked with the **Nigerian Railway Corporation**, where he served in operational and administrative capacities and rose to the position of **Chief Station Master**.
-
-At the Nigerian Railway Corporation, he was involved in station administration, operational coordination, ticketing activities, logistics and the supervision of the weighing and dispatch of goods to different parts of the country. This experience provided him with an early foundation in leadership, logistics management, public administration and operational accountability.
-
-He also served his **National Youth Service Corps programme at the Judicial Service Commission, Owerri**, where he contributed to the preparation of the Commission's statistical bulletin and participated in staff capacity-development activities.
-
-Aare Akintunde is an active researcher with considerable interest in **biostatistics, public health, pharmaceutical regulation, machine learning, predictive modelling, counterfeit medicines, pharmacovigilance, vaccine hesitancy and health-data analytics**.
-
-He has **authored and co-authored several articles published in scientific and academic journals**, contributing to the body of knowledge in statistics, public health and pharmaceutical regulation.
-
-His research and scholarly publications have addressed subjects including **COVID-19 vaccine hesitancy, counterfeit and falsified medicines, anti-counterfeit technologies, sachet-water quality and public-health implications, self-medication, non-steroidal anti-inflammatory drugs, regulatory interventions and the application of regression and machine-learning techniques to health-related data**. Click [here](https://scholar.google.com/citations?hl=en&user=6Q3wb9UAAAAJ) to view his Google Scholar profile.
-
-His research experience also includes participation in national and institutional surveys, baseline studies, monitoring and evaluation exercises, questionnaire development, field supervision and data analysis for projects involving government institutions and development partners.
-
-Aare Akintunde is a member of the **Chartered Institute of Statisticians of Nigeria (CISON)** and is actively involved in the advancement of the statistical profession.
-
-He currently serves as the **South-West Coordinator of the International Association for Statistical Computing (IASC)** and as the **Public Relations Officer of the Chartered Institute of Statisticians of Nigeria, Lagos State Chapter**.
-
-Beyond his academic and professional accomplishments, Aare Akintunde is deeply committed to community development, cultural preservation and social leadership.
-
-He is a **foundation member of Egbe Bobaseye Okunrin (Asiwaju), Imota**, where he holds the distinguished title of **Agba-Akin** and serves as the **Otun-Giwa Egbe**. His involvement in the Egbe reflects his commitment to the preservation of Imota's cultural heritage, communal unity, integrity and social development.
-
-He is also the **Pioneer and current President of De Royal Ambassadors of Imota**, through which he continues to contribute to community mobilisation, leadership development and the promotion of unity among the people of Imota.
-
-Aare Yusuf Akintunde Azeez represents a blend of **academic excellence, statistical competence, regulatory experience, research scholarship, professional leadership and community service**.
-
-His journey from railway operations to statistical practice, public-health research, pharmaceutical regulation and advanced academic scholarship, demonstrates resilience, intellectual curiosity and an enduring commitment to self-development.
-
-At the core of his professional philosophy is the belief that **data should not merely describe events; it should provide intelligence for understanding problems, predicting risks and guiding better decisions**. He remains committed to advancing the application of statistics, research and data analytics in strengthening institutions, improving regulatory effectiveness, supporting public-health interventions and contributing meaningfully to national development.
+For all info about Yusuf Akintuntunde Click [here](Akintunde-cv.pdf){target="_blank"} to view the resume.

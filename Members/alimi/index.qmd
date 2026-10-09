@@ -1,8 +1,32 @@
 ---
 title: "Alhaji Alimi Kabiru Oluwatobi"
-author: "Seriki Egbe"
-format: html
-execute:
-  echo: true
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: x
+      href: https://x.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: facebook
+      text: Facebook
+      href: https://web.facebook.com/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/
+    - icon: envelope
+      text: Contact me
+      href: mailto:alimi@gmail.com
 ---
 
+Seriki Egbe Bobaseye Okunrin (Asiwaju), Imota
+
+![Comrade (Alhaji) Alimi Kabiru Oluwatobi, B.Sc. (Accounting)](image/Seriki.jpg){fig-align="left"}
+
+Comrade (Alhaji) Alimi Kabiru Oluwatobi is a dedicated public servant, labour leader, and entrepreneur with an unwavering commitment to service, leadership, and community development. He currently serves as a mid-level officer in the Lagos State Local Government Service Commission, having joined the public service in 2007. He began his career with Imota Local Council Development Area (LCDA) before being deployed to Ikosi-Isheri LCDA in Kosofe Local Government Area of Lagos State, where he has continued to distinguish himself through diligence, professionalism, and exemplary service. Driven by a passion for advocating for the welfare and rights of workers, Comrade Alimi became actively involved in trade union activities from the onset of his public service career. His dedication and commitment to the cause of workers earned him the confidence of his colleagues, culminating in his emergence as the Chairman of the Nigeria Union of Local Government Employees (NULGE) in his Local Government. Beyond public service, he is the Chief Executive Officer of Kaybee Global Standard Enterprises, a Corporate Affairs Commission (CAC)-registered company with over two decades of experience in the construction industry. The firm specializes in building construction consultancy, project supervision, general contracting, the production of high-quality building blocks, and the supply of a wide range of building materials.
+
+In addition to his expertise in construction, Comrade Alimi is actively involved in livestock production and supply, with specialization in cattle, rams, and goats, reflecting his entrepreneurial versatility and commitment to contributing to Nigeria's agricultural sector. Outside his professional and business engagements, he enjoys meaningful conversations on personal development, leadership, and societal progress. He values strong relationships with family and friends and is passionate about initiatives that promote growth, unity, and community advancement.

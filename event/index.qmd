@@ -3,11 +3,11 @@ title: "Events"
 title-block-banner: false
 listing:
   contents:
-    - "CISON/index.qmd"
-    - "BBVF/index.qmd"
-    - "DRMC/index.qmd"
-    - "Elites/index.qmd"
-    - "Ijebunimi/index.qmd"
+    - "Ayayo-2024/index.qmd"
+    - "Ayayo-2025/index.qmd"
+    - "Ayayo-2026/index.qmd"
+    - "Meeting/index.qmd"
+    - "EOY/index.qmd"
     - "Regberegbe/index.qmd"
   sort: "date desc"
   type: default
