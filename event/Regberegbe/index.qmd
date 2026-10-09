@@ -1,7 +1,0 @@
----
-title: "EGBE BOBASEYE OKUNRIN (ASIWAJU)"
-format: html
-execute:
-  echo: true
----
-

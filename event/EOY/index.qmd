@@ -1,5 +1,5 @@
 ---
-title: "End of the year"
+title: "End of the year party"
 format: html
 execute:
   echo: true

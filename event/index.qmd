@@ -8,7 +8,6 @@ listing:
     - "Ayayo-2026/index.qmd"
     - "Meeting/index.qmd"
     - "EOY/index.qmd"
-    - "Regberegbe/index.qmd"
   sort: "date desc"
   type: default
   categories: true
