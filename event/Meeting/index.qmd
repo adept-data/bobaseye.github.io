@@ -1,8 +1,7 @@
 ---
-title: "Regberegbe"
+title: "Meeting"
 format: html
 execute:
   echo: true
 ---
 
-Click [here](_ext-files/CISON-abstracts.pdf){target="_blank"} to view the abstracts.
